@@ -1,0 +1,37 @@
+[
+    {
+        "alias": "Superman",
+        "name": "Clark Kent",
+        "base": "Metropolis",
+        "identity": "Public",
+        "img": "https://static.wikia.nocookie.net/marvel_dc/images/a/a8/Action_Comics_Vol_1_1000_Textless.jpg/revision/latest/scale-to-width-down/323?cb=20180411074920"
+    },
+    {
+        "alias": "Batman",
+        "name": "Bruce Wayne",
+        "base": "Gotham City",
+        "identity": "Secret",
+        "img": "https://static.wikia.nocookie.net/marvel_dc/images/7/76/Batman_Urban_Legends_Vol_1_5_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20210717062920"
+    },
+    {
+        "alias": "Wonder Woman",
+        "name": "Diana Prince",
+        "base": "Washington-DC",
+        "identity": "Public",
+        "img": "https://static.wikia.nocookie.net/marvel_dc/images/c/cc/Wonder_Woman_Vol_5_4_Textless.jpg/revision/latest/scale-to-width-down/344?cb=20160810132845"
+    },
+    {
+        "alias": "Aquaman",
+        "name": "Arthur Curry",
+        "base": "Amnesty Bay",
+        "identity": "Public",
+        "img": "https://static.wikia.nocookie.net/marvel_dc/images/a/a0/Aquaman_Vol_8_48_Textless_Variant.jpg/revision/latest/scale-to-width-down/329?cb=2019051913"
+    },
+    {
+        "alias": "Flash",
+        "name": "Bartholomew Henry Allen",
+        "base": "Central City",
+        "identity": "Secret",
+        "img": "https://static.wikia.nocookie.net/marvel_dc/images/7/74/Flash_0006.jpg/revision/latest/scale-to-width-down/329?cb=20120215162619"
+    }
+]
