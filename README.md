@@ -1,5 +1,4 @@
 # Projeto 02 - Módulo 03 - Back-end
-
 ## _Blue Ed Tech Projeto Extra, Turma 12 - 2022_
 
 Autor: Marcelo A Santos - GH: _DJMarshallSantos_,
@@ -24,7 +23,6 @@ Back-end CRUD em banco de dados MongoDB (Read All e Read By Id).
 - [DELETE] Exclusão de personagens por ID (0,4 pontos).
 
 ### Requisitos (6 pontos)
-
 - Requisitos (8 pontos)
 - Padrão MVC aplicado corretamente (2 pontos);
 - Persistência de dados no MongoDB (2 pontos);
@@ -97,7 +95,6 @@ proj01_mod03
 ```
 
 ## Agradecimentos
-
 Agradeço meus tutores, Leo Ruiz e Maria Eduarda, no módulo 1.
 Muito obrigado pelo profissionalismo e domínio do conteúdo e métodologia Blue.
 
@@ -105,5 +102,4 @@ Um obrigado especial a minha esposa, Lindamara Dias, que com sua parceria, paci�
 e amor fornece apoio veemente. Luv' ya!
 
 ## License
-
 **Público**
