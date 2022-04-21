@@ -5,7 +5,29 @@ const findCharactersService = async (req, res) => {
     return characters;
 }
 
-const findCharacterByIdService = async (id) => {
-    const character = await Character.findById(id);
+const findCharacterByIdService = async (idParam) => {
+    const character = await Character.findById(idParam);
     return character;
-  };
+};
+
+const createCharacterService = async (newCharacter) => {
+    const createCharacter = await Character.create(newCharacter)
+    return createCharacter;
+};
+
+const updateCharacterService = async (idParam, editCharacter) => {
+    const characterUpdated = await Character.findByIdAndUpdate(idParam, editCharacter);
+    return editCharacter;
+};
+
+const deleteCharacterService = async (idParam) => {
+    return await Character.findByIdAndDelete(idParam);
+};
+
+module.exports = {
+    findCharactersService,
+    findCharacterByIdService,
+    createCharacterService,
+    updateCharacterService,
+    deleteCharacterService
+};

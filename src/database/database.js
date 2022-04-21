@@ -7,7 +7,7 @@ function connectToDatabase() {
         useUnifiedTopology: true,
       })
       .then(() => {
-        console.log('MONGO DB CONNECTED');
+        console.log('You are now connected to MongoDB!');
       })
       .catch((err) => {
         return console.log(`Err connecting to the database ${err}`);
