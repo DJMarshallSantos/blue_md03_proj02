@@ -78,6 +78,8 @@ proj01_mod03
             characters.controller.js
         database
             database.js
+        middlewares
+            character.middleware.js
         models
             Character.js
         routes
